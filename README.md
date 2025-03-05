@@ -1,0 +1,2 @@
+# SQL
+Dərman bitkiləri
